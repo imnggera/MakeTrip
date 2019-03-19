@@ -1,0 +1,18 @@
+
+#LoginPage Object Property
+E_LOGIN=ch_login_icon:=ID
+E_EM=ch_login_email:=ID
+E_PWD=ch_login_password:=ID
+E_LG=ch_login_btn:=ID
+
+
+#SignUpPage Object Property
+E_SIGNUP=ch_signup_icon:=ID
+E_EM_SIGNUP=ch_signup_email:=ID
+E_NUM=ch_signup_phone:=ID
+E_PWD_SIGNUP=ch_signup_password:=ID
+E_SIGNUPB=ch_signup_btn:=ID
+
+#SearchPage Object Property
+E_FROM=hp-widget__sfrom:=ID
+E_FR_OPTION=//*[@class='autoCompleteItem']:=XPATH
